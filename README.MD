@@ -37,8 +37,8 @@ It uses celery to process the webpage asynchronously.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+git clone https://github.com/Prat18/sku_scraper.git
+cd sku_scraper
 ```
 ### start celery worker
 ```commandline
